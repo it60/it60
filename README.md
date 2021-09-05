@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## :trophy: Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcit94&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcit94)](https://github.com/mrcit94/mrcit94)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcit94&show_icons=true&theme=radical)
+
 
 
