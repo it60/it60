@@ -1,3 +1,7 @@
+<a href="#" target="_blank">
+  <img src="svg/it60.svg" width="1200" alt="it60" />
+</a>
+
 - 👋 Hi, I’m Calvin Nguyen
 
 Experienced engineer in DevOps/SRE (5+ years exp.). Skilled in programming language: Bash/Shell script, Python. Strong technical with open source software development, Docker/Kubernetes, AWS/GCP cloud operation, CI/CD pipeline, Ansible/Puppet, Terraform, ELK, Prometheus/Grafana monitoring and Oracle/MongoDB/PostgreSQL database operation.
