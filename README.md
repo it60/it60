@@ -1,3 +1,4 @@
+<!-- it60 -->
 <a href="#" target="_blank">
   <img src="svg/it60.svg" width="1200" alt="it60" />
 </a>
