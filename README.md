@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## :trophy: Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it60)](https://github.com/it60)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it60&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it60&count_private=true)](https://github.com/it60)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it60&show_icons=true&theme=radical&count_private=true)
 
 
 
